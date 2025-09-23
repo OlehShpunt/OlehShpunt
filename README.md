@@ -1,12 +1,11 @@
-Hi ! 👋 My name is Oleh Shpunt
-====================================================================================================================================
-3rd Year CS Student at TRU
---------------------------
-* 🌍  I'm based in [Kamloops](https://maps.app.goo.gl/V9sHXDdFAKJyui2e6), BC, Canada
-* ✉️  [olehshpunt2@gmail.com](mailto:olehshpunt2@gmail.com)
-* 💻  [LinkedIn Profile](https://www.linkedin.com/in/olehshpunt/)
-* 🚀  Currently working on [Bill Splitter](http://github.com/OlehShpunt/bill-splitter)
-* 👥  Looking to collaborate on React + NodeJS projects
+Hi there!
+==============
+I am open to collaborating on scalable web applications built with React, JavaScript/TypeScript, and Python.
+--------------
+* 🌍  [Kamloops, BC, Canada](https://maps.app.goo.gl/V9sHXDdFAKJyui2e6)
+* 💻  [LinkedIn](https://www.linkedin.com/in/olehshpunt/)
+* ✉️  [Email](mailto:olehshpunt2@gmail.com)
+
 <br>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;
